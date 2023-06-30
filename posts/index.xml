@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 30 Jun 2023 23:04:29 +0800</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MyFirstArticles</title>
+      <link>/posts/myfirstarticles/</link>
+      <pubDate>Fri, 30 Jun 2023 23:04:29 +0800</pubDate>
+      
+      <guid>/posts/myfirstarticles/</guid>
+      <description>
+        
+          
+            在小学期的开源课程中，见到了很有趣的开源平台GitHub。老师向我们讲述了如何搭建自己的GitHub。在创建的过程中，有很多次都是在地址栏输入cmd的环节之后，输入指定的字母后出现错误，从而反思到前几个步骤的细节有没做好，导致命令行运行后的页面电脑返回错误，例如单词拼写。在进入post文件夹后输入自己的博客内容时，第一次没有注意到应该是在下划线的第二行输入#号再进行博客内容输入，而不是第一行，产生了错误。通过这几天的学习，在之后要对博客进行修改就要重复以上的步骤，是因为最初创建的是本地的静态博客。之后在找git.隐藏文件夹中没找到，但在文件夹中找到查看显示隐藏的项目最后就找到它了。第二部分上传至github中，已经按照视频教学完成简单的博客，第二次创建博客的过程中在GitHub Desktop中，点了Current branch master页面与教程页面不太一样，最后调整好了经过不断的尝试调试后上传成功自己的博客了，感受收获很大。 
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
